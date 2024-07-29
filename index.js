@@ -19,28 +19,42 @@ async function sortHackerNewsArticles() {
 	await page.setViewportSize({ width: 800, height: 600 });
 
 	// get 100 newest articles
+	let articlesData = [];
+	let pageNum = 1;
+
 	//get data from the page
-	const data = await page.$$eval('.titleline', (articles) => {
-		const articlesData = [];
-		articles.forEach((article) => {
-			const title = article.querySelector('.titleline a').innerText;
-			const url = article.querySelector('.titleline a').href;
-			articlesData.push({
-				title,
-				url,
-			});
+	while (articlesData.length < 100) {
+		// get data from the page
+		const data = await page.$$eval('.titleline', (articles) => {
+			return articles.map((article) => ({
+				title: article.querySelector('.titleline a').innerText,
+				url: article.querySelector('.titleline a').href,
+			}));
 		});
 
-		return articlesData;
-	});
+		// add data to the array
+		articlesData = articlesData.concat(data);
+
+		//go to next page
+		const nextPage = await page.$('.morelink');
+		if (nextPage) {
+			await nextPage.click();
+			await page.waitForTimeout(3000);
+		} else {
+			break;
+		}
+		pageNum++;
+	}
 
 	// store the data in an array of objects
 	const log = fs.createWriteStream('log.txt', { flags: 'w' });
-	log.write(JSON.stringify(data, null, ' '));
+	log.write(JSON.stringify(articlesData.slice(0, 100), null, ' '));
 
 	//Close Browser
 	await browser.close();
 }
+
+console.log('Starting Hacker News Scraper');
 
 (async () => {
 	await sortHackerNewsArticles();
