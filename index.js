@@ -16,8 +16,25 @@ async function sortHackerNewsArticles() {
 	await page.goto('https://news.ycombinator.com/newest');
 	await page.setDefaultTimeout(10000);
 	await page.setViewportSize({ width: 800, height: 600 });
+
 	// get 100 newest articles
 	//get data from the page
+	const data = await page.$$eval('.titleline', (articles) => {
+		const articlesData = [];
+		articles.forEach((article) => {
+			const title = article.querySelector('.titleline a').innerText;
+			const url = article.querySelector('.titleline a').href;
+			articlesData.push({
+				title,
+				url,
+			});
+		});
+		console.log(articlesData);
+		return articlesData;
+	});
+
+	// Log the data in the terminal
+	console.log(data);
 
 	// store the data in an array of objects
 
