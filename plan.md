@@ -1,5 +1,5 @@
-//navigate to page in playwright
-//take screenshot - full page
+//navigate to page in playwright ✅
+//take screenshot - full page ✅
 //create path to find 100 newest articles
 // return 100 newest articles
 //stretch
