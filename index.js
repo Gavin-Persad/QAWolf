@@ -1,6 +1,7 @@
 // EDIT THIS FILE TO COMPLETE ASSIGNMENT QUESTION 1
 const { chromium } = require('playwright');
 const randomUseragent = require('random-useragent');
+const fs = require('fs');
 
 async function sortHackerNewsArticles() {
 	// Create Random Agent
@@ -29,14 +30,13 @@ async function sortHackerNewsArticles() {
 				url,
 			});
 		});
-		console.log(articlesData);
+
 		return articlesData;
 	});
 
-	// Log the data in the terminal
-	console.log(data);
-
 	// store the data in an array of objects
+	const log = fs.createWriteStream('log.txt', { flags: 'w' });
+	log.write(JSON.stringify(data, null, ' '));
 
 	//Close Browser
 	await browser.close();

@@ -1,0 +1,122 @@
+[
+ {
+  "title": "Making JavaScript deterministic for fun and glory",
+  "url": "https://developers.dusk.gg/blog/making-js-deterministic-for-fun-and-glory/"
+ },
+ {
+  "title": "Hottest days ever observed raise fears of a planet nearing 'tipping points'",
+  "url": "https://www.washingtonpost.com/climate-environment/2024/07/27/hottest-days-ever-recorded-climate-change/"
+ },
+ {
+  "title": "Ask HN: Do you share files at work?",
+  "url": "https://news.ycombinator.com/item?id=41101268"
+ },
+ {
+  "title": "All 24 puzzles ranked by difficulty",
+  "url": "https://www.4nums.com/game/difficulties/"
+ },
+ {
+  "title": "Influencers helped cause overtourism. Can they help fix it?",
+  "url": "https://www.japantimes.co.jp/community/2024/07/29/issues/overtourism-japan-tiktok-instagram-travel/"
+ },
+ {
+  "title": "How to Maximize Your Productivity at Work",
+  "url": "https://www.leiga.com/post/10-ways-to-boost-your-productivity-at-work"
+ },
+ {
+  "title": "'SimCity' Isn't a Model of Reality. It's a Libertarian Toy Land",
+  "url": "https://www.wired.com/story/simcity-libertarian-toy-land/"
+ },
+ {
+  "title": "Snazzy Send (Beta) From scheduling to follow-up, manage all meetings seamlessly",
+  "url": "https://snazzysend.com/"
+ },
+ {
+  "title": "The Future of Science Publishing",
+  "url": "https://cen.acs.org/policy/publishing/future-science-publishing/102/i23"
+ },
+ {
+  "title": "About Chrome's \"These extensions may soon no longer be supported\" message",
+  "url": "https://www.ghacks.net/2024/07/29/about-chromes-these-extensions-may-soon-no-longer-be-supported-message/#comments"
+ },
+ {
+  "title": "Show HN: I've built a website to generate Interior Designs using AI",
+  "url": "https://xona.ai/"
+ },
+ {
+  "title": "Personalized Olympic Recaps with voice of legendary announcer generated with A.I",
+  "url": "https://www.nbcsports.com/pressbox/press-releases/peacock-unveils-personalized-olympic-recaps-featuring-the-voice-of-legendary-sports-announcer-al-michaels-generated-with-a-i"
+ },
+ {
+  "title": "Chrome temporarily lost saved passwords",
+  "url": "https://www.google.com/appsstatus/dashboard/incidents/bRXnorYZuuVLDDqctj87"
+ },
+ {
+  "title": "AI detects breast cancer 5 years before it develops",
+  "url": "https://www.science.org/doi/10.1126/scitranslmed.aba4373"
+ },
+ {
+  "title": "Ask HN: Why is there no solution for direct democracy?",
+  "url": "https://news.ycombinator.com/item?id=41101183"
+ },
+ {
+  "title": "An Unexpected Twist Lights Up the Secrets of Turbulence",
+  "url": "https://www.quantamagazine.org/an-unexpected-twist-lights-up-the-secrets-of-turbulence-20200903/"
+ },
+ {
+  "title": "Show HN: Nodeland, an Alternative to Obsidian",
+  "url": "https://nodeland.io/"
+ },
+ {
+  "title": "PatternXOR Game",
+  "url": "https://codepen.io/tsuhre/pen/WNqxevY"
+ },
+ {
+  "title": "The Debate Around AI Art",
+  "url": "https://vineeth.io/posts/ai-art"
+ },
+ {
+  "title": "Multiplicative Game Design",
+  "url": "http://goblinartisans.blogspot.com/2018/08/multiplicative-design.html"
+ },
+ {
+  "title": "The First Pancake: Why my new hires must ship in their first week",
+  "url": "https://www.gkogan.co/first-pancake/"
+ },
+ {
+  "title": "New study simulates gravitational waves from failing warp drive",
+  "url": "https://www.aei.mpg.de/1171367/what-no-one-has-seen-before-new-study-simulates-gravitational-waves-from-failing-warp-drive"
+ },
+ {
+  "title": "US claims TikTok shipped personal data to China – very personal data",
+  "url": "https://www.theregister.com/2024/07/29/doj_tiktok_filing_china_data/"
+ },
+ {
+  "title": "Profiles could be a great Safari feature if the would fix bugs after release",
+  "url": "https://twitter.com/EdelOscar/status/1817941791586267542"
+ },
+ {
+  "title": "Linux Distros Evolution over Time from 2019 to 2024",
+  "url": "https://boilingsteam.com/linux-distro-july-2024/"
+ },
+ {
+  "title": "Chat-oriented programming (CHOP) in action",
+  "url": "https://sourcegraph.com/blog/chat-oriented-programming-in-action"
+ },
+ {
+  "title": "Show HN: Interview Assistant – AI-Powered Interview Aid for Real-Time Support",
+  "url": "https://interview-assistant-ai.com/web/"
+ },
+ {
+  "title": "Monster Molecules",
+  "url": "http://uridiumauthor.blogspot.com/2024/07/monster-molecules.html"
+ },
+ {
+  "title": "How to label audio datasets automatically with Edge Impulse and Hugging Face [video]",
+  "url": "https://www.youtube.com/watch?v=q6uq0KzprW4"
+ },
+ {
+  "title": "Dictators are different. 'Autocracy, Inc.' explains how",
+  "url": "https://text.npr.org/nx-s1-5050572"
+ }
+]
