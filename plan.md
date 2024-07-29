@@ -1,6 +1,10 @@
-//navigate to page in playwright ✅
-//take screenshot - full page ✅
-//create path to find 100 newest articles
-// return 100 newest articles
-//stretch
-//find what data is displayed and find best way of breaking this down
+## plan
+
+1. navigate to page in playwright ✅
+2. pull back first page info ✅
+3. create path to top 100 articles
+4. store and return top 100 articles
+
+### Stretch
+
+5. find what data is displayed and find best way of breaking this down
