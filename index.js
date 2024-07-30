@@ -47,7 +47,7 @@ async function sortHackerNewsArticles() {
 	}
 
 	// store the data in an array of objects
-	const log = fs.createWriteStream('log.txt', { flags: 'w' });
+	const log = fs.createWriteStream('log.js', { flags: 'w' });
 	log.write(JSON.stringify(articlesData.slice(0, 100), null, ' '));
 
 	//Close Browser
