@@ -3,8 +3,8 @@
 1. navigate to page in playwright ✅
 2. pull back first page info ✅
 3. store information in text doc ✅
-4. create path to top 100 articles
-5. store and return top 100 articles
+4. create path to top 100 articles✅
+5. store and return top 100 articles✅
 
 ### Stretch
 

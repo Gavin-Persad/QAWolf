@@ -1,402 +1,402 @@
 [
  {
-  "title": "Germans Combat Climate Change with DIY Solar Panels",
-  "url": "https://www.nytimes.com/2024/07/29/business/germany-solar-panels-climate-change.html"
+  "title": "British Teeth",
+  "url": "https://vole.wtf/british-teeth/"
  },
  {
-  "title": "Modern Imaging Sheds Light on Ancient Minoan Potters' Techniques",
-  "url": "https://archaeology.org/news/2024/07/29/modern-imaging-sheds-light-on-ancient-minoan-potters-techniques/"
+  "title": "Friend: Friendship-as-a-Product",
+  "url": "https://www.friend.com/product.html"
  },
  {
-  "title": "Elon Musk posts deepfake of Kamala Harris that violates X policy",
-  "url": "https://www.theverge.com/2024/7/29/24208671/elon-musk-deepfake-ai-kamala-harris-parody"
+  "title": "VyOS – The Universal Router. Open-source router and firewall platform",
+  "url": "https://vyos.net/"
  },
  {
-  "title": "Darkness reigns over Wikipedia as official dark mode comes to pass",
-  "url": "https://arstechnica.com/gadgets/2024/07/wikipedia-finally-has-an-official-dark-mode-on-desktop-and-mobile/"
+  "title": "Common side effects of not drinking",
+  "url": "https://medium.com/@k.kozmana/common-side-effects-of-not-drinking-dd44714e619a"
  },
  {
-  "title": "Pinging the World from Africa",
-  "url": "https://liorsinai.github.io/coding/2021/10/21/ping.html"
+  "title": "I Computer in 2024",
+  "url": "https://jnsgr.uk/2024/07/how-i-computer-in-2024/"
  },
  {
-  "title": "Complex life forms existed 1.5B years earlier than believed, study finds",
-  "url": "https://abcnews.go.com/International/complex-life-forms-existed-15-billion-years-earlier/story?id=112377072"
+  "title": "Show HN: I made a Bento Grid animation tool",
+  "url": "https://motiongrids.com/"
  },
  {
-  "title": "Achieve Low-Latency and High-Throughput Inference with Meta's Llama 3.1 405B",
-  "url": "https://www.snowflake.com/engineering-blog/optimize-llms-with-llama-snowflake-ai-stack/"
+  "title": "Elysia – Ergonomic Framework for Humans",
+  "url": "https://elysiajs.com/"
  },
  {
-  "title": "Show HN: Companero – An Open-Source Ridesharing Alternative",
-  "url": "https://github.com/kopytovskiy/companero-bot"
+  "title": "Ask HN: Checking if a website is down intentionally (Venezuelan elections)",
+  "url": "https://news.ycombinator.com/item?id=41117895"
  },
  {
-  "title": "Show HN: Mathy Card Game is a fast-paced arithmetic game",
-  "url": "https://medium.com/crayonfox/mathy-card-game-bf2080996139"
+  "title": "Squint's New Logo",
+  "url": "https://github.com/squint-cljs/squint/blob/main/logo/logo-bg.svg"
  },
  {
-  "title": "About Yggdrasil Network",
+  "title": "ATI: Activist Treasury Issuance and the Tug-of-War over Monetary Policy [pdf]",
+  "url": "https://www.hudsonbaycapital.com/documents/FG/hudsonbay/research/635102_Activist_Treasury_Issuance_-_Hudson_Bay_Capital_Research.pdf"
+ },
+ {
+  "title": "Scientism",
+  "url": "https://en.wikipedia.org/wiki/Scientism"
+ },
+ {
+  "title": "Yggdrasil a compact routing scheme designed for mesh or Internet-like networks",
   "url": "https://yggdrasil-network.github.io/about.html"
  },
  {
-  "title": "Show HN: Runny Is an Alternative to Makefiles",
-  "url": "https://github.com/simonwhitaker/runny"
+  "title": "Porting Lean to the ESP32-C3 RISC-V Microcontroller",
+  "url": "https://kuruczgy.com/blog/2024/07/31/lean-esp32/"
  },
  {
-  "title": "The African village mining Bitcoin",
-  "url": "https://unherd.com/2024/01/the-african-village-mining-bitcoin/"
+  "title": "Flights cancelled due to heat wave; experts explain why flights couldnt take off",
+  "url": "https://timesofindia.indiatimes.com/travel/travel-news/leh-flights-cancelled-due-to-heat-wave-experts-explain-why-flights-couldnt-take-off/articleshow/112134730.cms"
  },
  {
-  "title": "Japan plans for more tankers imports to tackle jet fuel shortage",
-  "url": "https://asia.nikkei.com/Business/Transportation/Japan-plans-for-more-tankers-imports-to-tackle-jet-fuel-shortage"
+  "title": "Intel to Cut Jobs to Reduce Costs, Fund Rebound",
+  "url": "https://www.bloomberg.com/news/articles/2024-07-30/intel-to-cut-thousands-of-jobs-to-reduce-costs-fund-turnaround"
  },
  {
-  "title": "The computer that got us to the Moon – 13 Minutes to the Moon [video]",
-  "url": "https://www.youtube.com/watch?v=FTiccgAFs-A"
+  "title": "Ask HN: Will AI ever be funny again?",
+  "url": "https://news.ycombinator.com/item?id=41117807"
  },
  {
-  "title": "How APT groups operate in Southeast Asia",
-  "url": "https://www.ptsecurity.com/ww-en/analytics/apt-groups-in-southeast-asia/"
+  "title": "How to convert and retain users in a Fintech?",
+  "url": "https://news.ycombinator.com/item?id=41117790"
  },
  {
-  "title": "Chillin Video Editor – Free Browser-Based Auto Subtitle",
-  "url": "https://chillin.online/en"
+  "title": "Folders is a language where the program is encoded into a directory structure",
+  "url": "https://danieltemkin.com/Esolangs/Folders/"
  },
  {
-  "title": "'Dancing molecules' heal cartilage damage",
-  "url": "https://news.northwestern.edu/stories/2024/july/dancing-molecules-heal-cartilage-damage/"
+  "title": "Ask HN: How did you find your co-founder?",
+  "url": "https://news.ycombinator.com/item?id=41117785"
  },
  {
-  "title": "Surreal adventures with Cloudflare's (paid) support",
-  "url": "https://matteosonoio.it/cloudflare-support/"
+  "title": "Show HN: Simple CMS for Homepages, Landings",
+  "url": "https://github.com/turboblack/HamsterCMS"
  },
  {
-  "title": "Ranking Programming Languages by Energy Efficiency [pdf]",
-  "url": "https://haslab.github.io/SAFER/scp21.pdf"
+  "title": "Show HN: CongressGPT – understand what Congress is actually doing",
+  "url": "https://www.congressgpt.app/"
  },
  {
-  "title": "Linux: The sustainable choice for computing and environmental responsibility",
-  "url": "https://allthingsopen.org/articles/linux-sustainable-environment"
+  "title": "We're spurring the next-generation of high-impact nature restoration projects",
+  "url": "https://www.symbiosiscoalition.org/"
  },
  {
-  "title": "Apple used Google's chips to train two AI models, research paper shows",
-  "url": "https://www.reuters.com/technology/apple-says-it-uses-no-nvidia-gpus-train-its-ai-models-2024-07-29/"
+  "title": "Rust2go: Simple and efficient way to call Golang from Rust with async support",
+  "url": "https://github.com/ihciah/rust2go"
  },
  {
-  "title": "The Founder's Hype Cycle",
-  "url": "https://nas.io/[communityLink]/feed/[postSlug]"
+  "title": "Show HN: QSourcer – Find talent with AI and Boolean queries",
+  "url": "https://qsourcer.com/"
  },
  {
-  "title": "LLM Tool Call Demo: Finetuned Llama3 Invokes Python Code& Manipulates Data on PC",
-  "url": "https://llamaedge.com/docs/user-guide/openai-api/intro/"
+  "title": "Publish or Perish",
+  "url": "https://harzing.com/resources/publish-or-perish"
  },
  {
-  "title": "HTTP/0.9 from Scratch",
-  "url": "https://kmcd.dev/posts/http0.9-from-scratch/"
+  "title": "Outsourcing emotion: The horror of Google's \"Dear Sydney\" AI ad",
+  "url": "https://arstechnica.com/ai/2024/07/dear-sydney-why-i-find-googles-ai-olympics-ad-so-disturbing/"
  },
  {
-  "title": "Keep the code behind AI open, say two entrepreneurs",
-  "url": "https://www.economist.com/by-invitation/2024/07/29/keep-the-code-behind-ai-open-say-two-entrepreneurs"
+  "title": "Study identifies universal blueprint for mammalian brain shape",
+  "url": "https://phys.org/news/2024-07-universal-blueprint-mammalian-brain.html"
  },
  {
-  "title": "My surprising mid-life diagnosis",
-  "url": "https://www.smh.com.au/lifestyle/health-and-wellness/my-surprising-mid-life-diagnosis-makes-me-proud-20240729-p5jxdm.html"
+  "title": "Quantum Algorithm Solves Travelling Salesperson Problem with 1-Qubit",
+  "url": "https://www.discovermagazine.com/technology/quantum-algorithm-solves-travelling-salesperson-problem-with-1-qubit"
  },
  {
-  "title": "From Explicit Cot to Implicit Cot: Learning to Internalize Cot Step by Step",
-  "url": "https://arxiv.org/abs/2405.14838"
+  "title": "Things I always do after installing Linux – and why",
+  "url": "https://www.zdnet.com/article/10-things-i-always-do-immediately-after-installing-linux-and-why/"
  },
  {
-  "title": "Butterflies accumulate static electricity to attract pollen without contact",
-  "url": "https://www.bristol.ac.uk/news/2024/july/butterflies-static-electricity.html"
+  "title": "Instead of AI laws, make AI explainable",
+  "url": "https://martinfowler.com/articles/2024-restrict-algorithm.html"
  },
  {
-  "title": "Harris and Trump differ on artificial intelligence policy",
-  "url": "https://abcnews.go.com/US/wireStory/harris-trump-differ-artificial-intelligence-policy-112390222"
+  "title": "CVEDetails API",
+  "url": "https://www.cvedetails.com/documentation/apis"
  },
  {
-  "title": "White House says no need to restrict \"open-source\" artificial intelligence",
-  "url": "https://abcnews.go.com/Politics/wireStory/white-house-restrict-open-source-artificial-intelligence-now-112389860"
+  "title": "Show HN: Startups every day receive funding from VC",
+  "url": "https://old.reddit.com/r/SaaS_Email_Marketing/comments/1egj7jg/a_tool_which_tracks_all_vc_funded_startups_real/"
  },
  {
-  "title": "Video AI One, AI video generator",
-  "url": "https://videoai.one/"
+  "title": "Gladys West: The Hidden Figure Behind GPS",
+  "url": "https://spectrum.ieee.org/gladys-west-hidden-figure-gps"
  },
  {
-  "title": "Distributed Collaborative Training (and LLMs) in the Browser",
-  "url": "https://discolab.ai/"
+  "title": "TikTok HQ staff hit by mass food poisoning incident",
+  "url": "https://www.bbc.com/news/articles/cw9yzyvyex7o"
  },
  {
-  "title": "Apache Kafka 3.8",
-  "url": "https://www.confluent.io/en-gb/blog/introducing-apache-kafka-3-8/"
+  "title": "Binary patching Go's Net/HTTP to get the true HTTP headers",
+  "url": "https://pulsesecurity.co.nz/articles/golang-patching"
  },
  {
-  "title": "Show HN: Screen Canvas – Draw, Highlight and Take Notes on Any Web Page",
-  "url": "https://chromewebstore.google.com/detail/screen-canvas-draw-on-any/hkheabjfgcabjmgbdajcmkaokaeimhnc"
+  "title": "China stops worrying about lack of GPUs and learns to love the supercomputer",
+  "url": "https://www.theregister.com/2024/07/31/china_supercomputer_not_gpu_plan/"
  },
  {
-  "title": "Retrieval-Augmented Generation (RAG) with Elixir",
-  "url": "https://shapath.com.np/posts/beginning-rag-elixir/"
+  "title": "Elixir: Sortable Unique IDs \\O/",
+  "url": "https://github.com/girishramnani/elixir-ksuid"
  },
  {
-  "title": "The camera never moves once in Tom Hanks' new film 'Here'",
-  "url": "https://petapixel.com/2024/07/29/the-camera-never-moves-in-tom-hanks-robin-wright-robert-zemeckis-de-aging-technology-ai-new-film-here/"
+  "title": "One year on 'Mars': Inside NASA's ultra-realistic isolation study",
+  "url": "https://phys.org/news/2024-07-year-mars-nasa-ultra-realistic.html"
  },
  {
-  "title": "HEDI: Beauty Shopping BFF",
-  "url": "https://www.askhedi.com/"
+  "title": "Show HN: ezyClients – All you need to onboard clients and collect documents",
+  "url": "https://ezyclients.com/"
  },
  {
-  "title": "Trump's embrace of Bitcoin is the art of the grift",
-  "url": "https://techcentral.co.za/trumps-embrace-bitcoin-art-of-the-grift/248826/"
+  "title": "I made Nodb, an open-source project for app development on top of Postgres",
+  "url": "https://news.ycombinator.com/item?id=41117656"
  },
  {
-  "title": "Ask HN: How do you learn digital marketing?",
-  "url": "https://news.ycombinator.com/item?id=41107413"
+  "title": "Japanese React to Failed Trump Assassination (Street Interview) [video]",
+  "url": "https://www.youtube.com/watch?v=pML-2p4XrFs"
  },
  {
-  "title": "Advanced Kotlin Coroutine Cheat Sheet (For Android Engineer)",
-  "url": "https://medium.com/@galou.minisini/advanced-kotlin-coroutine-cheat-sheet-for-android-engineer-15e0d180fc1f"
+  "title": "Government Design Principles",
+  "url": "https://www.gov.uk/guidance/government-design-principles"
  },
  {
-  "title": "The lie of music discovery algorithms",
-  "url": "https://www.zeynepevecen.dev/writing/music"
+  "title": "ClickHouse Acquires PeerDB",
+  "url": "https://clickhouse.com/blog/clickhouse-acquires-peerdb-to-boost-real-time-analytics-with-postgres-cdc-integration"
  },
  {
-  "title": "Show HN: Merlin – Contextual Intelligence Agent for GTM",
-  "url": "https://www.usemerlin.io/"
+  "title": "Get Excited Marvell Structera CXL Memory with Arm Neoverse V2",
+  "url": "https://www.servethehome.com/everyone-reading-sth-get-excited-marvell-structera-cxl-memory-with-arm-neoverse-v2/"
  },
  {
-  "title": "Bitcoin Mining Brings Energy to Those Who Need It",
-  "url": "https://www.blink.sv/blog/bitcoin-mining-brings-energy-to-those-who-need-it"
+  "title": "Intel Xe2 Lunar Lake and Battlemage Graphics Might Be Supported with Linux 6.12",
+  "url": "https://www.phoronix.com/news/Intel-Xe-DRM-Next-Linux-6.12"
  },
  {
-  "title": "I save all my texts and photos. But do I need them?",
-  "url": "https://www.theguardian.com/wellness/article/2024/jul/29/digital-personal-archive"
+  "title": "A handful of reasons JavaScript won't be available",
+  "url": "https://piccalil.li/blog/a-handful-of-reasons-javascript-wont-be-available/"
  },
  {
-  "title": "Social Media as a Public Service",
-  "url": "https://avris.it/blog/social-media-as-a-public-service"
+  "title": "Meta's prompt guard defeated using spaces",
+  "url": "https://www.theregister.com/2024/07/29/meta_ai_safety/"
  },
  {
-  "title": "The highest personal ROI program I have written so far",
-  "url": "https://hiandrewquinn.github.io/til-site/posts/the-highest-personal-roi-program-i-have-written-so-far/"
+  "title": "Make your own luck: do this to stand out in a crowded industry [video]",
+  "url": "https://www.youtube.com/watch?v=YKeVeG6h4AA"
  },
  {
-  "title": "Ask HN: Bat game (like cssgarden) but for BATCH scripting",
-  "url": "https://news.ycombinator.com/item?id=41107324"
+  "title": "Show HN: I made a site that lets you find better alternative tools",
+  "url": "https://www.alternate.tools/"
  },
  {
-  "title": "OpenTofu 1.8.0 Is Out",
-  "url": "https://opentofu.org/blog/opentofu-1-8-0/"
+  "title": "Show HN: I made Nodb, an app dev toolkit on top of Postgres",
+  "url": "https://github.com/nearup-io/nodb-js"
  },
  {
-  "title": "My PostgreSQL database is empty",
-  "url": "https://andreas.scherbaum.la/post/2022-06-11_my-postgresql-database-is-empty/"
+  "title": "You Can't Get a Job [video]",
+  "url": "https://www.youtube.com/watch?v=wy4IliE7E9o"
  },
  {
-  "title": "Swiftide, Paving the Way for Retrieval Augmented Generation Applications in Rust",
-  "url": "https://bosun.ai/posts/swiftide-0-7/"
+  "title": "How the Removal of Entrust from Chrome's Root Store Will Affect the Internet",
+  "url": "https://censys.com/google-entrust-internet/"
  },
  {
-  "title": "Airbounce: Ace your next Zoom meeting",
-  "url": "https://www.airbounce.co/"
+  "title": "Vector Embeddings: The Next Frontier in SEO?",
+  "url": "https://itsbariscan.substack.com/p/vector-embeddings-the-next-frontier"
  },
  {
-  "title": "Artists Sue SEC over NFT Regulation",
-  "url": "https://x.com/i/trending/1818105426296070474"
+  "title": "No love lost between Apple and Nvidia",
+  "url": "https://www.theregister.com/2024/07/30/apple_google_tpu_ai/"
  },
  {
-  "title": "S. Korean women archers dominate Olympics for 36 years",
-  "url": "https://www.koreaherald.com/view.php?ud=20240613050670"
+  "title": "Go toolchain v1.22.n breaks Go 1 compatibility",
+  "url": "https://go101.org/bugs/go-build-directive-not-work.html"
  },
  {
-  "title": "The history and future of serverless containers",
-  "url": "https://medium.com/@sdmoser/the-history-and-future-of-serverless-containers-illustrated-with-ibm-cloud-code-engine-b4233bb42eff"
+  "title": "A surprisingly good introduction to colour theory – with superheroes",
+  "url": "https://www.youtube.com/watch?v=-HEGegeJo7g"
  },
  {
-  "title": "Power by Daniel Baryon (Anark)",
-  "url": "https://theanarchistlibrary.org/library/anark-power"
+  "title": "Show HN: Percentiles – Interactive Demo",
+  "url": "https://percentile-demo.vercel.app/"
  },
  {
-  "title": "Show HN: Copy Folder Contents for Easy Prompting",
-  "url": "https://github.com/romansky/copa"
+  "title": "Revamped UK cybersecurity bill couldn't come soon enough, but details are patchy",
+  "url": "https://www.theregister.com/2024/07/30/uk_csr_bill_analysis/"
  },
  {
-  "title": "From Burnout to Balance: AI-Enhanced Work Models",
-  "url": "https://www.upwork.com/research/ai-enhanced-work-models"
+  "title": "The reality of LLMs' productivity on coding [video]",
+  "url": "https://www.youtube.com/watch?v=U_cSLPv34xk"
  },
  {
-  "title": "Canarytokens: Honeypot for critical credentials, get notified when they are used",
-  "url": "https://canarytokens.org/nest/"
+  "title": "Generate and Export Segmentation Masks Using Meta's SAMv2",
+  "url": "https://huggingface.co/spaces/lightly-ai/SAMv2-Mask-Generator"
  },
  {
-  "title": "You Could Make This",
-  "url": "https://github.com/madprops/blog/blob/main/docs/audiolex.md"
+  "title": "Unequal exchange of labour in the world economy",
+  "url": "https://www.nature.com/articles/s41467-024-49687-y"
  },
  {
-  "title": "Discover Your All-in-One Scheduling Hub",
-  "url": "https://dlopo.com/"
+  "title": "Waymo in SF: Where Did the Jetsons Hide Their Drug Addicts?",
+  "url": "https://codeandcontext.substack.com/p/where-did-the-jetsons-hide-their"
  },
  {
-  "title": "Ha-Ha",
-  "url": "https://en.wikipedia.org/wiki/Ha-ha"
+  "title": "Parental education and inequalities in child mortality",
+  "url": "https://www.thelancet.com/journals/lancet/article/PIIS0140-6736(21)00534-1/fulltext#%20"
  },
  {
-  "title": "Flexible network data preloading in large SPAs",
-  "url": "https://mmazzarolo.com/blog/2024-07-29-data-preloading-script/"
+  "title": "Nvidia Accelerates Humanoid Robotics Development",
+  "url": "https://nvidianews.nvidia.com/news/nvidia-accelerates-worldwide-humanoid-robotics-development"
  },
  {
-  "title": "Show HN: Get Real Instagram Followers Effortlessly with Experts and AI",
-  "url": "https://www.gainsty.com/"
+  "title": "Wow: Wise Ordering for Writes – Combining Spatial and Temporal Locality (2005)",
+  "url": "https://www.usenix.org/legacy/events/fast05/tech/full_papers/gill/gill_html/wow.html"
  },
  {
-  "title": "Ask HN: What happened to all the Voice AI wave?",
-  "url": "https://news.ycombinator.com/item?id=41107175"
+  "title": "A Tour of Program Optimization [video]",
+  "url": "https://www.youtube.com/watch?v=SivQplf4OkE"
  },
  {
-  "title": "JPMorgan's AI Chatbot to Replace Research Analysts",
-  "url": "https://analyticsindiamagazine.substack.com/p/jpmorgans-ai-chatbot-to-replace-research"
+  "title": "Compiling for Instruction-Level Parallelism",
+  "url": "https://www.youtube.com/watch?v=VLLDPQQB_GM"
  },
  {
-  "title": "Bitcoin Mining in Africa: All Roads Lead to Ethiopia. Learn Why",
-  "url": "https://www.blink.sv/blog/bitcoin-mining-in-africa-all-roads-lead-to-ethiopia-learn-why-part-i"
+  "title": "macOS code injection for fun and no profit",
+  "url": "https://mariozechner.at/posts/2024-07-20-macos-code-injection-fun/"
  },
  {
-  "title": "Hollywood Accounting",
-  "url": "https://en.wikipedia.org/wiki/Hollywood_accounting"
+  "title": "AMD Breaks $1B in Datacenter GPU Sales in Q2",
+  "url": "https://www.nextplatform.com/2024/07/31/amd-breaks-1-billion-in-datacenter-gpu-sales-in-q2/"
  },
  {
-  "title": "Public Work: a visual search engine for public domain contents",
-  "url": "https://public.work/"
+  "title": "Undersea Cable Repair",
+  "url": "https://hackaday.com/2024/07/30/undersea-cable-repair/"
  },
  {
-  "title": "A rule-based styling system for immediate-mode UIs",
-  "url": "https://forkingpaths.dev/"
+  "title": "Retirement of Office 365 connectors within Microsoft Teams",
+  "url": "https://devblogs.microsoft.com/microsoft365dev/retirement-of-office-365-connectors-within-microsoft-teams/"
  },
  {
-  "title": "Global Structure-from-Motion Revisited",
-  "url": "https://lpanaf.github.io/eccv24_glomap/"
+  "title": "California city rolls out all-electric police fleet, first in US",
+  "url": "https://www.foxbusiness.com/technology/south-pasadena-rolls-out-fully-electric-police-fleet"
  },
  {
-  "title": "Student Resampled His T Distribution",
-  "url": "https://two-wrongs.com/student-bootstrapped-t-distribution.html"
+  "title": "Day in the Life of a 24 Year Old Entrepreneur in India (Realistic)",
+  "url": "https://www.youtube.com/watch?v=QO1Fcubyt3E"
  },
  {
-  "title": "Extreme Value Statistical Process Control",
-  "url": "https://two-wrongs.com/extreme-value-spc"
+  "title": "AMD 2024 Q2 Financials: It's All AI++ – By Dr. Ian Cutress",
+  "url": "https://morethanmoore.substack.com/p/amd-2024-q2-financials-its-all-ai"
  },
  {
-  "title": "Nikolov and Zeller: Misrepresentation of Critical Satellite Data by IPCC",
-  "url": "https://tallbloke.wordpress.com/2024/07/26/nikolov-zeller-misrepresentation-of-critical-satellite-data-by-ipcc/"
+  "title": "Wikipedia official dark mode comes to pass",
+  "url": "https://arstechnica.com/gadgets/2024/07/wikipedia-finally-has-an-official-dark-mode-on-desktop-and-mobile/"
  },
  {
-  "title": "Ask HN: Autonomous LLM",
-  "url": "https://news.ycombinator.com/item?id=41106980"
+  "title": "Spikey Spheres",
+  "url": "https://www.penzba.co.uk/cgi-bin/PvsNP.py?SpikeySpheres#HN2"
  },
  {
-  "title": "Indian Police Identify Movie \"Camming\" Pirate by Analyzing Film Angle",
-  "url": "https://torrentfreak.com/indian-police-pinpoint-seat-of-movie-camming-pirate-by-analyzing-the-film-angle-240729/"
+  "title": "Technology history: Where Unix came from",
+  "url": "https://allthingsopen.org/articles/where-unix-came-from"
  },
  {
-  "title": "Someone made a cat keyboard protector",
-  "url": "https://apps.apple.com/us/app/catboard/id6584531230?mt=12"
+  "title": "Hybrids between two species can produce \"swarms\" that flourish",
+  "url": "https://arstechnica.com/science/2024/07/how-hybrid-swarms-can-break-down-species-boundaries-and-take-over-habitats/"
  },
  {
-  "title": "Real life example of a brunnian link",
-  "url": "https://twitter.com/Rainmaker1973/status/1598313153829421059"
+  "title": "Contributing to open source docs as a technical writer",
+  "url": "https://passo.uno/contribute-open-source-docs/"
  },
  {
-  "title": "Deep-Tempest:Using Deep Learning to Eavesdrop on HDMI",
-  "url": "https://arxiv.org/abs/2407.09717"
+  "title": "The Doyen of the Valley Bids Adieu",
+  "url": "https://spectrum.ieee.org/tekla-perry-ieee-spectrum"
  },
  {
-  "title": "Third-party cookies have got to go",
-  "url": "https://www.w3.org/blog/2024/third-party-cookies-have-got-to-go/"
+  "title": "The non-Riemannian nature of perceptual color space",
+  "url": "https://www.pnas.org/doi/10.1073/pnas.2119753119"
  },
  {
-  "title": "Show HN: My little Cultural DNA Map builder",
-  "url": "https://news.ycombinator.com/item?id=41106910"
+  "title": "Mysterious family of malware hid in Google Play for years",
+  "url": "https://arstechnica.com/security/2024/07/mysterious-family-of-malware-hid-in-google-play-for-years/"
  },
  {
-  "title": "Open Source is not a business model; it never was",
-  "url": "https://opensourcewatch.beehiiv.com/p/open-source-not-business-model-never"
+  "title": "World of constellations: a multicultural star map",
+  "url": "https://eleanorlutz.com/constellations-from-around-the-world"
  },
  {
-  "title": "Show HN: Keep code and doc snippets in sync by checking your README",
-  "url": "https://github.com/NyuB/yadladoc"
+  "title": "Senate to Kids: We'll Listen to You When You Agree with Us on KOSA",
+  "url": "https://www.techdirt.com/2024/07/30/senate-to-kids-well-listen-when-you-agree-with-us-on-kosa/"
  },
  {
-  "title": "Pixi – rust-based package manager for reproducible scientific workflows",
-  "url": "https://prefix.dev/blog/pixi_for_scientists"
+  "title": "Jax-FEM: A differentiable GPU-accelerated 3D FEM solver",
+  "url": "https://github.com/deepmodeling/jax-fem"
  },
  {
-  "title": "Therapeutic effect of psilocybin in addiction: A systematic review (2023)",
-  "url": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC9947277/"
+  "title": "James Harrison – the Man with the Golden Arm",
+  "url": "https://en.wikipedia.org/wiki/James_Harrison_(blood_donor)"
  },
  {
-  "title": "A simple serlializable JavaScript physics engine for network gaming",
-  "url": "https://github.com/kevglass/propel-js"
+  "title": "Show HN: CSV to XML API Endpoint",
+  "url": "https://datatoxml.com/"
  },
  {
-  "title": "Desktop hypervisors are not dead: Oracle preps major VirtualBox update",
-  "url": "https://www.theregister.com/2024/07/30/virtualbox_7_1_beta/"
+  "title": "Show HN: Procedurally generate ASCII art trees in your terminal",
+  "url": "https://github.com/Ben-Edwards44/PyBonsai"
  },
  {
-  "title": "Embrace Slowness",
-  "url": "https://martinrue.com/embrace-slowness/"
+  "title": "Elon Musk redesigned X's gun emoji. Now it's a culture war symbol",
+  "url": "https://www.fastcompany.com/91163644/elon-musk-ditched-the-water-gun-for-a-pistol-emoji-on-x-its-a-worrying-shot-in-the-culture-wars"
  },
  {
-  "title": "Researchers trap atoms, force them to serve as photonic transistors",
-  "url": "https://phys.org/news/2024-07-atoms-photonic-transistors.html"
+  "title": "Gall's Law. A rule of thumb for designing complex systems that work",
+  "url": "https://blog.prototypr.io/galls-law-93c8ef8b651e"
  },
  {
-  "title": "Tree bark plays vital role in removing methane from atmosphere, study finds",
-  "url": "https://www.theguardian.com/environment/article/2024/jul/24/tree-bark-vital-role-removing-methane-atmosphere-climate"
+  "title": "Private GitHub Repos Aren't as Private as You Think [YouTube] [video]",
+  "url": "https://www.youtube.com/watch?v=EH3tenVGk60"
  },
  {
-  "title": "AWS breaking changes and price increases",
-  "url": "https://github.com/SummitRoute/aws_breaking_changes"
+  "title": "Gemini API Developer Competition top prize: a custom electric 1981 DeLorean",
+  "url": "https://ai.google.dev/competition"
  },
  {
-  "title": "Exploring credentials in my password manager",
-  "url": "https://www.ndra.dev/2024/07/30/exploring-credentials-in-my-password-manager.html"
+  "title": "The Olympic flame isn't fire. So what is it?",
+  "url": "https://www.npr.org/2024/07/30/nx-s1-5055810/the-cauldron-of-fire-in-paris-is-more-eco-friendly-clouds-of-mist-and-beams-of-light"
  },
  {
-  "title": "Toronto Pearson International Airport Heist",
-  "url": "https://en.wikipedia.org/wiki/Toronto_Pearson_International_Airport_heist"
+  "title": "Perplexity AI to share revenue with publishers after plagiarism storm",
+  "url": "https://www.cnbc.com/2024/07/30/perplexity-ai-to-share-revenue-with-publishers-after-plagiarism-accusations.html"
  },
  {
-  "title": "Indian techie narrates how they are being replaced with Vietnam developers",
-  "url": "https://www.indiatimes.com/news/india/indian-techie-narrates-how-they-are-being-replaced-with-vietnam-developers-638881.html"
+  "title": "Emoji Cheatsheet",
+  "url": "https://github.com/ikatyang/emoji-cheat-sheet/blob/master/README.md"
  },
  {
-  "title": "Oshit: Seven Deadly Sins of Bad Open Source Research",
-  "url": "https://www.bellingcat.com/resources/2024/04/25/oshit-seven-deadly-sins-of-bad-open-source-research/"
+  "title": "Dark Angels ransomware receives record-breaking $75M ransom",
+  "url": "https://www.bleepingcomputer.com/news/security/dark-angels-ransomware-receives-record-breaking-75-million-ransom/"
  },
  {
-  "title": "Debian Linux on X Elite-based Surface Laptop 7",
-  "url": "https://old.reddit.com/r/SurfaceLinux/comments/1efmyb3/managed_to_install_baremetal_linux_on_snapdragon/"
+  "title": "Regression and Other Stories (2020)",
+  "url": "https://avehtari.github.io/ROS-Examples/"
  },
  {
-  "title": "General Motors, Honda, Hyundai accused of inappropriately selling customer data",
-  "url": "https://fortune.com/2024/07/26/general-motors-honda-and-hyundai-are-accused-of-inappropriately-selling-customer-data/"
+  "title": "I had to launch 24 products in 4 years",
+  "url": "https://news.ycombinator.com/item?id=41117255"
  },
  {
-  "title": "CrowdStrike says most Falcon sensors now up and running",
-  "url": "https://www.computerweekly.com/news/366599276/CrowdStrike-says-most-Falcon-sensors-now-up-and-running"
+  "title": "A Blood Test Accurately Diagnosed Alzheimer's 90% of the Time, Study Finds",
+  "url": "https://www.nytimes.com/2024/07/28/health/alzheimers-blood-test.html"
  },
  {
-  "title": "Understanding HTTP/3 – Features, Benefits and Impact",
-  "url": "https://hayageek.com/understanding-http-3-features-benefits-impact/"
- },
- {
-  "title": "Practical Math: My Journey from Idea to Application",
-  "url": "https://blog.ignaciobrasca.com/opinion/2024/07/29/practical-math.html"
- },
- {
-  "title": "Finding Nash Equilibria Through Simulation",
-  "url": "https://coe.psu.ac.th/ad/nashSim/"
+  "title": "An agent to navigate previously unseen code repositories to solve queries",
+  "url": "https://github.com/allenai/codenav"
  }
 ]
